@@ -18,7 +18,7 @@ def turn_off():
 	db_ev.write("k",False)
 
 
-ip = "192.168.1.27"
+ip = "192.168.1.13"
 your_city = "Ankara"
 
 filename = "/tmp/welcomer.log"
